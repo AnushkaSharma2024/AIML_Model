@@ -103,7 +103,7 @@ A powerful web application for training, analyzing, and deploying machine learni
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Aditya5757raj/Healthcare-ML-Tutorial.git
+git clone https://github.com/AnushkaSharma2024/Healthcare-ML-Tutorial.git
 ```
 
 2. Install dependencies:
